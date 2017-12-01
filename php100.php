@@ -1,4 +1,3 @@
-
 <?php
 
 echo "<br>Please Enter the number of stairs: <br>";
